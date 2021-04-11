@@ -38,7 +38,7 @@ bot.on('start', ()=> {
 
   bot.postMessageToChannel(
     'general',
-    "Hello i am @dionysus!",
+    "Hello i am your friend @dionysus!",
     params
   );
 })
